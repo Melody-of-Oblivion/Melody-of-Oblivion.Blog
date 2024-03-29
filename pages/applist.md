@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-03-24
+个人整理，长期更新。**最后编辑**：2024-03-29
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -67,7 +67,7 @@ permalink: /applist/
 
 ​	Office辅助：[iSlide](https://www.islide.cc/download) / [UUOffice工具箱](http://www.uuoffice.net) / [ASAP Utilities](https://www.asap-utilities.com/download-asap-utilities.php)
 
-​	Office工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html) / [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+​	Office工具：[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html) / [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) / [Mocreak](https://www.mocreak.com)
 
 ​	制谱软件：[MuseScore](https://musescore.org/zh-hans/download)
 
@@ -181,7 +181,7 @@ permalink: /applist/
 
 ​	个性化桌面：[Rainmeter](https://www.rainmeter.net) / [lively](https://github.com/rocksdanister/lively)
 
-​	桌面分框：[Coodesker](https://wwvc.lanzouv.com/iNYm01aaz8xi) / [ModernBoxes](https://gitee.com/MchBlog/modern-box) / [iTop Easy Desktop](https://www.itopvpn.com/user-manual/ied/#Download-&-Installation)
+​	桌面分框：[Coodesker](https://wwz.lanzouj.com/b01y47zda) (515c) / [ModernBoxes](https://gitee.com/MchBlog/modern-box) / [iTop Easy Desktop](https://www.itopvpn.com/user-manual/ied/#Download-&-Installation)
 
 ​	win11窗口效果：[MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) / [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)
 
@@ -207,7 +207,7 @@ permalink: /applist/
 
 ​	浏览器提速：[SpeedyFox](https://crystalidea.com/speedyfox)
 
-​	DirectX修复工具：[DirectX Repair](https://blog.csdn.net/VBcom/article/details/7245186)
+​	dll修复工具：[DirectX Repair](https://blog.csdn.net/VBcom/article/details/7245186) / [4DDiG DLL Fixer](https://wwz.lanzouj.com/b01y4jx7e) (cqb3)
 
 ​	密码管理软件：[Keepass](https://keepass.info/download.html) / [Bitwarden](https://bitwarden.com/download) / [Swifty](https://getswifty.pro) / [KeepassXC](https://github.com/keepassxreboot/keepassxc)
 
@@ -266,6 +266,8 @@ permalink: /applist/
 ​	私人微博：[flomo](https://flomoapp.com) / [memos](https://github.com/usememos/memos)
 
 ​	屏幕局部放大：[Milky Warp](https://github.com/hugoattal/milky-warp)
+
+​	阻止锁屏：[Caffeine](https://www.zhornsoftware.co.uk/caffeine) / [Insomnia](https://dlaa.me/insomnia)
 
 ​	电子邮件：[Foxmail](https://www.foxmail.com/) / [Spark](https://sparkmailapp.com/zh) / [Canary Mail](https://canarymail.io/downloads.html) / [网易邮箱大师](https://dashi.163.com) / [Thunderbird](https://www.thunderbird.net/zh-CN/) / [eM Client](https://www.emclient.com/download) / [Mailspring](https://www.getmailspring.com/)
 
