@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-03-29
+个人整理，长期更新。**最后编辑**：2024-03-30
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -207,7 +207,7 @@ permalink: /applist/
 
 ​	浏览器提速：[SpeedyFox](https://crystalidea.com/speedyfox)
 
-​	dll修复工具：[DirectX Repair](https://blog.csdn.net/VBcom/article/details/7245186) / [4DDiG DLL Fixer](https://wwz.lanzouj.com/b01y4jx7e) (cqb3)
+​	dll修复工具：[DirectX Repair](https://www.zysoftware.top/post/9.html) / [4DDiG DLL Fixer](https://wwz.lanzouj.com/b01y4jx7e) (cqb3)
 
 ​	密码管理软件：[Keepass](https://keepass.info/download.html) / [Bitwarden](https://bitwarden.com/download) / [Swifty](https://getswifty.pro) / [KeepassXC](https://github.com/keepassxreboot/keepassxc)
 
@@ -219,7 +219,7 @@ permalink: /applist/
 
 ​	系统工具：[云萌Win10激活工具](https://cmwtat.cloudmoe.com/cn.html) / [Microsoft Activation Scripts](https://massgrave.dev) / [云图工具箱](https://wintool.cc)
 
-​	重装系统：[WinToHDD](https://www.easyuefi.com/wintohdd)
+​	重装系统：[WinToHDD](https://www.easyuefi.com/wintohdd) / [EasyRC](https://firpe.cn/page-196) / [SysRi](https://sysri.cn)
 
 ​	优选MS的IP：[MicrosoftHostsPicker](https://github.com/ZeroSimple/MicrosoftHostsPicker)
 
