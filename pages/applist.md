@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-03-30
+个人整理，长期更新。**最后编辑**：2024-04-04
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -355,7 +355,7 @@ permalink: /applist/
 
 ​	动漫：[Imomoe](https://github.com/SkyD666/Imomoe)
 
-​	漫画：[dmzj_flutter](https://github.com/xiaoyaocz/dmzj_flutter) / [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [MangaReader](https://github.com/youniaogu/MangaReader) / [aniyomi](https://github.com/jmir1/aniyomi)
+​	漫画：[dmzj_flutter](https://github.com/xiaoyaocz/dmzj_flutter) / [MangaReader](https://github.com/youniaogu/MangaReader) / [aniyomi](https://github.com/jmir1/aniyomi)
 
 ​	播放器：[Musicolet](https://krosbits.in/musicolet/download) / [椒盐音乐](https://moriafly.xyz/HiMoriafly/docs/salt-player/download) / [Auxio](https://github.com/OxygenCobalt/Auxio) / [LMusic](https://www.coolapk.com/apk/292606) / [RPlayer](https://www.coolapk.com/apk/com.r.rplayer) / [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) / [APlayer](https://github.com/rRemix/APlayer) / [Eddict Player](https://shanling.com/download/76) / [Next Player](https://github.com/anilbeesetti/nextplayer) / [倒带](https://github.com/KusStar/rewind-apks)
 
