@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-04-04
+个人整理，长期更新。**最后编辑**：2024-04-06
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -317,7 +317,7 @@ permalink: /applist/
 
 ​	野外生存工具：[Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense)
 
-​	记账：[expenses](https://github.com/nominalista/expenses) / [鲨鱼记账](http://www.shayujizhang.com) / [Timi记账](https://www.coolapk.com/apk/13621) / [钱迹](https://www.qianjiapp.com) / [Oinkoin](https://github.com/emavgl/oinkoin)
+​	记账：[expenses](https://github.com/nominalista/expenses) / [鲨鱼记账](http://www.shayujizhang.com) / [Timi记账](https://www.coolapk.com/apk/13621) / [钱迹](https://www.qianjiapp.com) / [Oinkoin](https://github.com/emavgl/oinkoin) / [EMMO小账本](https://play.google.com/store/apps/details?id=emmo.charge.app)
 
 ​	谷歌安装器：[Go安装器](https://a.app.qq.com/o/simple.jsp?pkgname=com.goplaycn.googleinstall)
 
