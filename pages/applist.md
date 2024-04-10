@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-04-06
+个人整理，长期更新。**最后编辑**：2024-04-10
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -319,8 +319,6 @@ permalink: /applist/
 
 ​	记账：[expenses](https://github.com/nominalista/expenses) / [鲨鱼记账](http://www.shayujizhang.com) / [Timi记账](https://www.coolapk.com/apk/13621) / [钱迹](https://www.qianjiapp.com) / [Oinkoin](https://github.com/emavgl/oinkoin) / [EMMO小账本](https://play.google.com/store/apps/details?id=emmo.charge.app)
 
-​	谷歌安装器：[Go安装器](https://a.app.qq.com/o/simple.jsp?pkgname=com.goplaycn.googleinstall)
-
 ​	画画： [Medibang Paint](https://medibangpaint.com/zh_CN/app-download) / [SketchBook](https://www.sketchbook.com/apps)
 
 ​	图像处理：[Image Toolbox](https://github.com/T8RIN/ImageToolbox)
@@ -344,6 +342,8 @@ permalink: /applist/
 ​	解压缩：[ZipXtract](https://github.com/WirelessAlien/ZipXtract)
 
 ​	天气：[Breezy Weather](https://github.com/breezy-weather/breezy-weather)
+
+​	地图：[白马地图](https://bmaps.cn) / [Organic Maps](https://github.com/organicmaps/organicmaps)
 
 #### 2. 娱乐
 
