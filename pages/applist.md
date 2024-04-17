@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-04-10
+个人整理，长期更新。**最后编辑**：2024-04-17
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -95,7 +95,7 @@ permalink: /applist/
 
 ​	伴奏提取：[SpleeterGUI](https://makenweb.com/#spleetergui) / [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [NovaMSS](https://novamss.com/download)
 
-​	文件压缩：[Leanify](https://github.com/JayXon/Leanify) / [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) / [Hummingbird](https://github.com/leibnizli/hummingbird)
+​	文件压缩：[Leanify](https://github.com/JayXon/Leanify) / [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) / [Hummingbird](https://github.com/leibnizli/hummingbird) / [DwarFS](https://github.com/mhx/dwarfs)
 
 ​	文件转换：[FileConverter](https://github.com/Tichau/FileConverter)
 
@@ -273,7 +273,7 @@ permalink: /applist/
 
 #### 6. 下载器
 
-​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en/) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Aria2](https://github.com/aria2/aria2) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT)[^4] / [LIII](https://github.com/aliakseis/LIII) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/) / [PicoTorrent](https://github.com/picotorrent/picotorrent) / [XDM](https://github.com/subhra74/xdm-experimental-binaries) / [ThunderS 极简融合版](https://wwvc.lanzouv.com/b01xnrwcj) (3ckp) / [迅雷11绿色版](https://wwvc.lanzouv.com/b01xnrwcj) (3ckp) / [Gopeed](https://gopeed.com/zh-CN)
+​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en/) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Aria2](https://github.com/aria2/aria2) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT)[^4] / [LIII](https://github.com/aliakseis/LIII) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/) / [PicoTorrent](https://github.com/picotorrent/picotorrent) / [XDM](https://github.com/subhra74/xdm-experimental-binaries) / [ThunderS 极简融合版](https://wwvc.lanzouv.com/b01xnrwcj) (3ckp) / [迅雷11绿色版](https://wwvc.lanzouv.com/b01xnrwcj) (3ckp) / [Gopeed](https://gopeed.com/zh-CN) / [imFile](https://github.com/imfile-io/imfile-desktop)
 
 ​	视频下载器：[JiJiDown](http://client.jijidown.com) / [BBDown](https://github.com/nilaoda/BBDown) / [yt-dlp](https://github.com/yt-dlp/yt-dlp) / [downkyi](https://github.com/leiurayer/downkyi) / [B23Downloader](https://github.com/vooidzero/B23Downloader) / [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload) / [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) / [bilidown](http://zhouql.vip/bilibili/pc)
 
@@ -467,7 +467,7 @@ permalink: /applist/
 
 ​	智能图片放大：[Bigjpg](https://bigjpg.com) / [AI Image Enlarger](https://imglarger.com)
 
-​	图片压缩：[Squoosh](https://squoosh.app) / [TinyPNG](https://tinypng.com) / [鸭力巨大](https://www.yalijuda.com) / [急速压缩图片](https://tiny.jijian.link) / [iLoveIMG](https://www.iloveimg.com/zh-cn/compress-image) / [极速图片压缩器](https://www.ticompressor.com) / [图片极致压缩工具](https://imgtool.v1.mk)
+​	图片压缩：[Squoosh](https://squoosh.app) / [TinyPNG](https://tinypng.com) / [鸭力巨大](https://www.yalijuda.com) / [急速压缩图片](https://tiny.jijian.link) / [iLoveIMG](https://www.iloveimg.com/zh-cn/compress-image) / [极速图片压缩器](https://www.ticompressor.com) / [图片极致压缩工具](https://imgtool.v1.mk) / [TinyPNG](https://free.tinypng.site)
 
 ​	图片格式转换：[imagesTool](https://imagestool.com) / [Images Tool v3.0](https://www.imagestool.cn)
 
