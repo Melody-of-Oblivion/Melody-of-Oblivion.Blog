@@ -61,7 +61,7 @@ permalink: /applist/
 
 ​	Markdown编辑器：[Typora](https://www.typora.io) / [Zettlr](https://github.com/Zettlr/Zettlr) / [ghostwriter](https://github.com/KDE/ghostwriter) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4) / [Moeditor](https://github.com/Moeditor/Moeditor) / [MDX Editor](https://github.com/maqi1520/mdx-editor) / [纯纯写作](https://writer.drakeet.com/desktop) / [Bluestone](https://github.com/1943time/bluestone)
 
-​	笔记软件：[Obsidian](https://obsidian.md) / [joplin](https://github.com/laurent22/joplin) / [Ficus](https://github.com/Thysrael/Ficus)
+​	笔记软件：[Obsidian](https://obsidian.md) / [joplin](https://github.com/laurent22/joplin) / [Ficus](https://github.com/Thysrael/Ficus) / [AFFiNE](https://github.com/toeverything/AFFiNE)
 
 ​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp) / [小熊猫C++](https://royqh1979.gitee.io/redpandacpp/download)
 
@@ -485,7 +485,7 @@ permalink: /applist/
 
 ​	Epub阅读：[Polar](https://getpolarized.io) / [Neat Reader](https://www.neat-reader.cn/webapp)
 
-​	魔法橡皮擦：[Magiceraser](https://www.magiceraser.io)
+​	图像去除：[Magiceraser](https://www.magiceraser.io) / [Inpaint-web](https://inpaintweb.lxfater.com)
 
 ​	软件替代：[AlternativeTo](https://alternativeto.net)
 
