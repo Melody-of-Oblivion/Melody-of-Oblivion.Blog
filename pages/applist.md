@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-04-19
+个人整理，长期更新。**最后编辑**：2024-04-23
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -49,6 +49,8 @@ permalink: /applist/
 
 ​	语音输入：[CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline)
 
+​	Win+R增强：[nTrun](https://www.ntrun.com)
+
 #### 2. 编辑工具
 
 ​	图像处理：[GIMP](https://www.gimp.org/downloads) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org) / [PhotoDemon](https://photodemon.org)
@@ -88,6 +90,8 @@ permalink: /applist/
 ​	图片拼接：[Batch Image Combiner](https://bggenerator.com/batch_image_combiner.html)
 
 ​	视频编码：[HandBrake](https://handbrake.fr/downloads.php) / [Shutter Encoder](https://www.shutterencoder.com) / [NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes)
+
+​	视频编辑：[Kdenlive](https://kdenlive.org/en/download) / [Shotcut](https://github.com/mltframework/shotcut)
 
 ​	文件(夹)比较：[WinMerge](https://winmerge.org/downloads)
 
@@ -194,6 +198,8 @@ permalink: /applist/
 ​	win服务管理：[WPD](https://wpd.app) / [Easy Service Optimizer](https://www.sordum.org/8637/easy-service-optimizer-v1-2)
 
 ​	音量调节：[Volume²](https://github.com/irzyxa/Volume2) / [ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) / [EarTrumpet](https://eartrumpet.app) / [Volumey](https://github.com/G-Stas/Volumey)
+
+​	系统精简：[tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 
 #### 5. 实用软件
 
