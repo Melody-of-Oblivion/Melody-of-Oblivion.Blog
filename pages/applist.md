@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-04-23
+个人整理，长期更新。**最后编辑**：2024-04-25
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -239,7 +239,7 @@ permalink: /applist/
 
 ​	窗口全屏：[Magpie](https://github.com/Blinue/Magpie)
 
-​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass) / [netSend](https://github.com/williamnie/netSend) / [Feem](https://www.feem.io/#download) / [极连快传](https://shouji.360.cn/jl.html) / [LocalSend](https://localsend.org/) / [Nocab Desktop](https://github.com/nocab-transfer/nocab-desktop) / [Sharik](https://github.com/marchellodev/sharik) / [Speed Share](https://github.com/nightmare-space/speed_share) / [闪电藤](https://lightningvine.zishu.life/download.html)
+​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass) / [netSend](https://github.com/williamnie/netSend) / [Feem](https://www.feem.io/#download) / [极连快传](https://shouji.360.cn/jl.html) / [LocalSend](https://localsend.org/) / [Nocab Desktop](https://github.com/nocab-transfer/nocab-desktop) / [Sharik](https://github.com/marchellodev/sharik) / [Speed Share](https://github.com/nightmare-space/speed_share) / [闪电藤](https://lightningvine.zishu.life/download.html) / [Airclap](https://github.com/Gentleflow/Airclap)
 
 ​	win家庭版开启远程桌面：[SuperRDP](https://github.com/anhkgg/SuperRDP) / [rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini)
 
@@ -259,7 +259,7 @@ permalink: /applist/
 
 ​	抓包工具：[Fiddler](https://www.telerik.com/fiddler/fiddler-classic)
 
-​	防火墙：[Fort Firewall](https://github.com/tnodir/fort)
+​	防火墙：[Fort Firewall](https://github.com/tnodir/fort) / [simplewall](https://github.com/henrypp/simplewall)
 
 ​	UWP回环解除：[UWP-Loopback-Exemption-Manager](https://github.com/themerror/UWP-Loopback-Exemption-Manager)[^2]
 
@@ -350,6 +350,8 @@ permalink: /applist/
 ​	天气：[Breezy Weather](https://github.com/breezy-weather/breezy-weather)
 
 ​	地图：[白马地图](https://bmaps.cn) / [Organic Maps](https://github.com/organicmaps/organicmaps)
+
+​	自动复制验证码：[otphelper](https://github.com/jd1378/otphelper)
 
 #### 2. 娱乐
 
