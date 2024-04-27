@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-04-25
+个人整理，长期更新。**最后编辑**：2024-04-27
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -330,6 +330,8 @@ permalink: /applist/
 ​	图像处理：[Image Toolbox](https://github.com/T8RIN/ImageToolbox)
 
 ​	下载器：[BiglyBT](https://github.com/BiglySoftware/BiglyBT-Android) / [download-navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
+
+​	视频下载器：[Seal](https://github.com/JunkFood02/Seal)
 
 ​	浏览器：[Top浏览器](https://www.topc1.com) / [X浏览器](https://www.xbext.com) / [Via浏览器](https://viayoo.com) / [Kiwi Browser](https://kiwibrowser.com) / [雨见浏览器](https://www.yjllq.com) / [狐猴浏览器](https://lemurbrowser.com/app/zh) / [可拓浏览器](https://www.coolapk.com/apk/com.yjllq.kito)
 
