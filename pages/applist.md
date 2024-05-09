@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-04-27
+个人整理，长期更新。**最后编辑**：2024-05-09
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -61,7 +61,9 @@ permalink: /applist/
 
 ​	Markdown编辑器：[Typora](https://www.typora.io) / [Zettlr](https://github.com/Zettlr/Zettlr) / [ghostwriter](https://github.com/KDE/ghostwriter) / [MarkText](https://github.com/marktext/marktext) / [Typedown](https://apps.microsoft.com/store/detail/typedown-%E8%BD%BB%E9%87%8F%E7%BA%A7-markdown-%E7%BC%96%E8%BE%91%E5%99%A8/9P8TCW4H2HB4) / [Moeditor](https://github.com/Moeditor/Moeditor) / [MDX Editor](https://github.com/maqi1520/mdx-editor) / [纯纯写作](https://writer.drakeet.com/desktop) / [Bluestone](https://github.com/1943time/bluestone)
 
-​	笔记软件：[Obsidian](https://obsidian.md) / [joplin](https://github.com/laurent22/joplin) / [Ficus](https://github.com/Thysrael/Ficus) / [AFFiNE](https://github.com/toeverything/AFFiNE)
+​	代码收藏夹：[MassCode](https://github.com/massCodeIO/massCode)
+
+​	笔记软件：[Obsidian](https://obsidian.md) / [joplin](https://github.com/laurent22/joplin) / [Ficus](https://github.com/Thysrael/Ficus) / [AFFiNE](https://github.com/toeverything/AFFiNE) / [Logseq](https://github.com/logseq/logseq)
 
 ​	C语言IDE：[Dev C++](https://sourceforge.net/projects/orwelldevcpp) / [小熊猫C++](https://royqh1979.gitee.io/redpandacpp/download)
 
@@ -200,6 +202,8 @@ permalink: /applist/
 ​	音量调节：[Volume²](https://github.com/irzyxa/Volume2) / [ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) / [EarTrumpet](https://eartrumpet.app) / [Volumey](https://github.com/G-Stas/Volumey)
 
 ​	系统精简：[tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+
+​	系统广告移除：[OFGB](https://github.com/xM4ddy/OFGB) / [OFGB汉化版](https://github.com/zetaloop/OFGB)
 
 #### 5. 实用软件
 
