@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-05-09
+个人整理，长期更新。**最后编辑**：2024-05-25
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -55,7 +55,7 @@ permalink: /applist/
 
 ​	图像处理：[GIMP](https://www.gimp.org/downloads) / [paint.net](https://www.getpaint.net/download.html) / [Medibang Paint](https://medibangpaint.com/zh_CN/app-download) / [SketchBook](https://www.sketchbook.com/apps) / [Krita](https://krita.org) / [PhotoDemon](https://photodemon.org)
 
-​	像素画：[Aseprite](https://github.com/aseprite/aseprite) / [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+​	像素画：[Aseprite](https://github.com/aseprite/aseprite) / [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) / [PixEditor](https://github.com/PixiEditor/PixiEditor)
 
 ​	编辑器：[Visual Studio Code](https://code.visualstudio.com/Download) / [VSCodium](https://vscodium.com/#install) / [Notepads](https://github.com/JasonStein/Notepads) / [Notepad3](https://github.com/rizonesoft/Notepad3) / [Notepad Next](https://github.com/dail8859/NotepadNext) / [Notepad--](https://gitee.com/cxasm/notepad--) / [Notepad2-zufuliu](https://github.com/zufuliu/notepad2) / [Codeium](https://codeium.com) / [CudaText](https://cudatext.github.io/download.html) / [Lapce](https://github.com/lapce/lapce)
 
@@ -177,11 +177,11 @@ permalink: /applist/
 
 #### 4. 系统清理/美化工具
 
-​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) / [CCleaner](https://www.ccleaner.com/)[^1] / [Optimizer](https://github.com/hellzerg/optimizer) / [privatezilla](https://github.com/builtbybel/privatezilla) / [DoNotSpy11](https://pxc-coding.com/donotspy11/donotspy-11-download/)
+​	优化清理工具：[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) / [CCleaner](https://www.ccleaner.com)[^1] / [Optimizer](https://github.com/hellzerg/optimizer) / [privatezilla](https://github.com/builtbybel/privatezilla) / [DoNotSpy11](https://pxc-coding.com/donotspy11/donotspy-11-download)
 
 ​	内存清理：[MemReduct](hhttps://github.com/henrypp/memreduct) / [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)
 
-​	屏幕色温调节：[f.lux](https://justgetflux.com/)
+​	屏幕色温调节：[f.lux](https://justgetflux.com)
 
 ​	任务栏工具：[TranslucentTB ](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9) / [TrayS](https://github.com/cgbsmy/TrayS) / [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) / [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) / [草特码](https://www.123pan.com/s/0YkAjv-zANEd.html) / [RoundedTB](https://github.com/RoundedTB/RoundedTB)
 
@@ -191,7 +191,7 @@ permalink: /applist/
 
 ​	win11窗口效果：[MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) / [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)
 
-​	多标签资源管理器：[QTTabBar](http://qttabbar.wikidot.com/) / [indiff/qttabbar](https://github.com/indiff/qttabbar) / [360文件夹](https://bbs.360.cn/thread-16040300-1-1.html)
+​	多标签资源管理器：[QTTabBar](http://qttabbar.wikidot.com) / [indiff/qttabbar](https://github.com/indiff/qttabbar) / [360文件夹](https://bbs.360.cn/thread-16040300-1-1.html)
 
 ​	文件资源管理器：[Files](https://files.community/download) / [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) / [Spacedrive](https://github.com/spacedriveapp/spacedrive)
 
@@ -243,7 +243,7 @@ permalink: /applist/
 
 ​	窗口全屏：[Magpie](https://github.com/Blinue/Magpie)
 
-​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass) / [netSend](https://github.com/williamnie/netSend) / [Feem](https://www.feem.io/#download) / [极连快传](https://shouji.360.cn/jl.html) / [LocalSend](https://localsend.org/) / [Nocab Desktop](https://github.com/nocab-transfer/nocab-desktop) / [Sharik](https://github.com/marchellodev/sharik) / [Speed Share](https://github.com/nightmare-space/speed_share) / [闪电藤](https://lightningvine.zishu.life/download.html) / [Airclap](https://github.com/Gentleflow/Airclap)
+​	局域网文件传输：[LANDrop](https://landrop.app/#downloads) / [b0pass](https://github.com/bitepeng/b0pass) / [netSend](https://github.com/williamnie/netSend) / [Feem](https://www.feem.io/#download) / [极连快传](https://shouji.360.cn/jl.html) / [LocalSend](https://localsend.org) / [Nocab Desktop](https://github.com/nocab-transfer/nocab-desktop) / [Sharik](https://github.com/marchellodev/sharik) / [Speed Share](https://github.com/nightmare-space/speed_share) / [闪电藤](https://lightningvine.zishu.life/download.html) / [Airclap](https://github.com/Gentleflow/Airclap)
 
 ​	win家庭版开启远程桌面：[SuperRDP](https://github.com/anhkgg/SuperRDP) / [rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini)
 
@@ -279,11 +279,13 @@ permalink: /applist/
 
 ​	阻止锁屏：[Caffeine](https://www.zhornsoftware.co.uk/caffeine) / [Insomnia](https://dlaa.me/insomnia)
 
-​	电子邮件：[Foxmail](https://www.foxmail.com/) / [Spark](https://sparkmailapp.com/zh) / [Canary Mail](https://canarymail.io/downloads.html) / [网易邮箱大师](https://dashi.163.com) / [Thunderbird](https://www.thunderbird.net/zh-CN/) / [eM Client](https://www.emclient.com/download) / [Mailspring](https://www.getmailspring.com/)
+​	电子邮件：[Foxmail](https://www.foxmail.com) / [Spark](https://sparkmailapp.com/zh) / [Canary Mail](https://canarymail.io/downloads.html) / [网易邮箱大师](https://dashi.163.com) / [Thunderbird](https://www.thunderbird.net/zh-CN) / [eM Client](https://www.emclient.com/download) / [Mailspring](https://www.getmailspring.com)
+
+​	WinDefender设置：[DefenderUI](https://www.defenderui.com)
 
 #### 6. 下载器
 
-​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en/) / [Motrix](https://motrix.app/) / [XDown](https://xdown.org/) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Aria2](https://github.com/aria2/aria2) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT)[^4] / [LIII](https://github.com/aliakseis/LIII) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown/) / [PicoTorrent](https://github.com/picotorrent/picotorrent) / [XDM](https://github.com/subhra74/xdm-experimental-binaries) / [ThunderS 极简融合版](https://wwvc.lanzouv.com/b01xnrwcj) (3ckp) / [迅雷11绿色版](https://wwvc.lanzouv.com/b01xnrwcj) (3ckp) / [Gopeed](https://gopeed.com/zh-CN) / [imFile](https://github.com/imfile-io/imfile-desktop) / [Yolx](https://github.com/uiYzzi/Yolx)
+​	下载器：[NDM](http://www.neatdownloadmanager.com/index.php/en) / [Motrix](https://motrix.app) / [XDown](https://xdown.org) / [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) / [Aria2](https://github.com/aria2/aria2) / [BiglyBT](https://github.com/BiglySoftware/BiglyBT)[^4] / [LIII](https://github.com/aliakseis/LIII) / [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) / [QDown](https://lightzhan.xyz/index.php/qdown) / [PicoTorrent](https://github.com/picotorrent/picotorrent) / [XDM](https://github.com/subhra74/xdm-experimental-binaries) / [ThunderS 极简融合版](https://wwvc.lanzouv.com/b01xnrwcj) (3ckp) / [迅雷11绿色版](https://wwvc.lanzouv.com/b01xnrwcj) (3ckp) / [Gopeed](https://gopeed.com/zh-CN) / [imFile](https://github.com/imfile-io/imfile-desktop) / [Yolx](https://github.com/uiYzzi/Yolx)
 
 ​	视频下载器：[JiJiDown](http://client.jijidown.com) / [BBDown](https://github.com/nilaoda/BBDown) / [yt-dlp](https://github.com/yt-dlp/yt-dlp) / [downkyi](https://github.com/leiurayer/downkyi) / [B23Downloader](https://github.com/vooidzero/B23Downloader) / [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload) / [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) / [bilidown](http://zhouql.vip/bilibili/pc)
 
@@ -395,7 +397,7 @@ permalink: /applist/
 
 ​	看板：[Personal Kanban](https://personalkanban.js.org) / [Trello](https://trello.com/home)
 
-​	文字识别：[PearOCR](https://pearocr.com) / [CatOCR](https://catocr.com/#/) / [OLOCR](https://olocr.com/zh-CN) / [OCRSpace](https://ocr.space)
+​	文字识别：[PearOCR](https://pearocr.com) / [CatOCR](https://catocr.com/#) / [OLOCR](https://olocr.com/zh-CN) / [OCRSpace](https://ocr.space)
 
 ​	云汉化平台：[ParaTranz](https://paratranz.cn)
 
@@ -465,7 +467,7 @@ permalink: /applist/
 
 ​	Excel工具：[ChatExcel](https://chatexcel.com)
 
-​	思维导图：[Simple mind map](https://wanglin2.github.io/mind-map/#/)
+​	思维导图：[Simple mind map](https://wanglin2.github.io/mind-map/#)
 
 ​	人声分离：[Vocal Remover and Isolation](https://vocalremover.org/zh)
 
@@ -485,9 +487,9 @@ permalink: /applist/
 
 ​	图片格式转换：[imagesTool](https://imagestool.com) / [Images Tool v3.0](https://www.imagestool.cn)
 
-​	Pornhub风格logo生成：[Logoly Pro](https://www.logoly.pro/#/)
+​	Pornhub风格logo生成：[Logoly Pro](https://www.logoly.pro/#)
 
-​	短网址生成：[TinyURL](https://tinyurl.com) / [短网址](https://sina.lt/) / [短链在线生成](http://tool.chinaz.com/Tools/dwz.aspx) / [bitly](https://bitly.com/) / [is.gd](https://is.gd/) / [Ow.ly](https://www.hootsuite.com/pages/owly) / [达龙短网址](https://s.011.run/) / [Fito](https://fito.cc)
+​	短网址生成：[TinyURL](https://tinyurl.com) / [短网址](https://sina.lt) / [短链在线生成](http://tool.chinaz.com/Tools/dwz.aspx) / [bitly](https://bitly.com) / [is.gd](https://is.gd) / [Ow.ly](https://www.hootsuite.com/pages/owly) / [达龙短网址](https://s.011.run) / [Fito](https://fito.cc)
 
 ​	Trackers：[TrackersList.com](https://trackerslist.com/#/zh) / [animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
 
@@ -508,5 +510,5 @@ permalink: /applist/
 [^1]: 网上可以搜学习方法。
 [^2]: Fiddler和V2rayN也带有这个功能。
 [^3]: 开发者推荐下载 [ggml-medium.bin](https://huggingface.co/datasets/ggerganov/whisper.cpp/blob/main/ggml-medium.bin) 模型
-[^4]: 下载WithJava安装后可以删除自带的jre文件夹的内容，自行[下载](https://adoptium.net/zh-CN/temurin/releases/)新的JRE的zip压缩包替换。
+[^4]: 下载WithJava安装后可以删除自带的jre文件夹的内容，自行[下载](https://adoptium.net/zh-CN/temurin/releases)新的JRE的zip压缩包替换。
 
