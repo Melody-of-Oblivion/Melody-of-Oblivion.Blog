@@ -5,7 +5,7 @@ permalink: /applist/
 
 **观前提示：**
 
-个人整理，长期更新。**最后编辑**：2024-05-25
+个人整理，长期更新。**最后编辑**：2024-05-29
 
 仅作为参考使用。欢迎推荐好用的软件哦！(°∀°)ﾉ❀
 
@@ -75,7 +75,7 @@ permalink: /applist/
 
 ​	制谱软件：[MuseScore](https://musescore.org/zh-hans/download)
 
-​	启动盘制作工具：[Rufus](http://rufus.ie) / [UNetbootin](https://unetbootin.github.io) / [Ventoy](https://github.com/ventoy/Ventoy) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top) / [优启通](https://www.itsk.com/thread/430619) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.cn) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](http://www.fengpe.top) / [DawnPE](https://dawnpe.com) / [WinpeMaker](https://winpemaker.ccpe.net/download.html) / [ComPE](https://win-compe.top) / [PanDa PE](https://www.pandadatech.cn/archives/pandape)
+​	启动盘制作工具：[Rufus](http://rufus.ie) / [UNetbootin](https://unetbootin.github.io) / [Ventoy](https://github.com/ventoy/Ventoy) / [微PE工具箱](https://www.wepe.com.cn/download.html) / [FirPE](https://www.firpe.cn/#down) / [HotPE](https://down.hotpe.top) / [优启通](https://www.itsk.com/thread/430619) / [CMDPE](https://cmdpe.com/post/70.html) / [U盘魔术师](https://www.sysceo.com/Software-softwarei-id-129.html) / [USBOS](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1) / [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1) / [GlassPE](https://glasspe.cn) / [CowPE](http://cowpe.myzwq.cn/project/8c11) / [蜂鸟PE](http://www.fengpe.top) / [DawnPE](https://dawnpe.com) / [WinpeMaker](https://winpemaker.ccpe.net/download.html) / [ComPE](https://win-compe.top) / [PanDa PE](https://www.pandadatech.cn/archives/pandape) / [RoguePE](https://www.roguepe.cn)
 
 ​	字幕软件：[Aegisub](http://www.aegisub.org) / [Subtitle Edit](https://www.nikse.dk/subtitleedit)
 
@@ -483,7 +483,7 @@ permalink: /applist/
 
 ​	智能图片放大：[Bigjpg](https://bigjpg.com) / [AI Image Enlarger](https://imglarger.com)
 
-​	图片压缩：[Squoosh](https://squoosh.app) / [TinyPNG](https://tinypng.com) / [鸭力巨大](https://www.yalijuda.com) / [急速压缩图片](https://tiny.jijian.link) / [iLoveIMG](https://www.iloveimg.com/zh-cn/compress-image) / [极速图片压缩器](https://www.ticompressor.com) / [图片极致压缩工具](https://imgtool.v1.mk) / [TinyPNG](https://free.tinypng.site)
+​	图片压缩：[Squoosh](https://squoosh.app) / [TinyPNG](https://tinypng.com) / [鸭力巨大](https://www.yalijuda.com) / [急速压缩图片](https://tiny.jijian.link) / [iLoveIMG](https://www.iloveimg.com/zh-cn/compress-image) / [极速图片压缩器](https://www.ticompressor.com) / [图片极致压缩工具](https://imgtool.v1.mk) / [TinyPNG](https://free.tinypng.site) / [图小小](https://picsmaller.com)
 
 ​	图片格式转换：[imagesTool](https://imagestool.com) / [Images Tool v3.0](https://www.imagestool.cn)
 
